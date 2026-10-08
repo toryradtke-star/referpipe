@@ -1,0 +1,14 @@
+{
+  "categories": [
+    { "key": "chiropractor", "label": "Chiropractor", "places": "chiropractor", "osm": ["healthcare=chiropractor"] },
+    { "key": "massage", "label": "Massage therapy", "places": "massage therapist", "osm": ["shop=massage", "healthcare=massage"] },
+    { "key": "gym", "label": "Gym / fitness", "places": "gym", "osm": ["leisure=fitness_centre"] },
+    { "key": "crossfit", "label": "CrossFit / strength gym", "places": "crossfit gym", "osm": ["sport=crossfit"] },
+    { "key": "running-club", "label": "Running store / club", "places": "running store", "osm": [] },
+    { "key": "youth-sports", "label": "Youth sports club", "places": "youth hockey association", "osm": [] }
+  ],
+  "towns": [
+    { "name": "Brainerd", "state": "MN" },
+    { "name": "Baxter", "state": "MN" }
+  ]
+}

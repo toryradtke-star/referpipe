@@ -1,0 +1,15 @@
+{
+  "fromName": "Sam Lindqvist",
+  "fromEmail": "sam@hello.harborline.example",
+  "replyTo": "front@harborline.example",
+  "company": "Harborline Physical Therapy",
+  "website": "https://harborline.example",
+  "phone": "2185550100",
+  "postalAddress": "100 Main St, Brainerd, MN 56401",
+  "unsubBase": "https://unsubscribe.example/u/",
+  "warmupStart": null,
+  "signature": [
+    "Sam Lindqvist, DPT",
+    "Harborline Physical Therapy · (218) 555-0100 · fax (218) 555-0101"
+  ]
+}

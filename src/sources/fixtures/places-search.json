@@ -1,0 +1,32 @@
+{
+  "places": [
+    {
+      "id": "ChIJtest001",
+      "displayName": { "text": "Lakeside Chiropractic", "languageCode": "en" },
+      "formattedAddress": "123 Broadway St, Alexandria, MN 56308, USA",
+      "addressComponents": [
+        { "longText": "Alexandria", "shortText": "Alexandria", "types": ["locality", "political"] },
+        { "longText": "Minnesota", "shortText": "MN", "types": ["administrative_area_level_1", "political"] }
+      ],
+      "nationalPhoneNumber": "(320) 555-0101",
+      "websiteUri": "http://lakesidechiro.example/",
+      "rating": 4.8,
+      "userRatingCount": 12,
+      "photos": [{ "name": "places/ChIJtest001/photos/a" }, { "name": "places/ChIJtest001/photos/b" }],
+      "googleMapsUri": "https://maps.google.com/?cid=1",
+      "businessStatus": "OPERATIONAL"
+    },
+    {
+      "id": "ChIJtest002",
+      "displayName": { "text": "Bob's Plumbing" },
+      "formattedAddress": "9 Main St, Superior, WI 54880, USA",
+      "addressComponents": [
+        { "longText": "Superior", "shortText": "Superior", "types": ["locality"] },
+        { "longText": "Wisconsin", "shortText": "WI", "types": ["administrative_area_level_1"] }
+      ],
+      "regularOpeningHours": { "weekdayDescriptions": ["Monday: 8:00 AM – 5:00 PM"] },
+      "businessStatus": "CLOSED_TEMPORARILY"
+    }
+  ],
+  "nextPageToken": "next"
+}

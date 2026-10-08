@@ -1,0 +1,18 @@
+{
+  "name": "referpipe",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Introduce a local clinic or gym to the businesses that could refer to it: find them, read their sites, judge the fit with quotes from their own site, and queue an introduction behind a send gate. Node 22 + SQLite, zero dependencies.",
+  "author": "Tory Radtke (https://webcraftmn.com)",
+  "license": "MIT",
+  "type": "module",
+  "engines": {
+    "node": ">=22.18"
+  },
+  "bin": {
+    "referpipe": "bin/referpipe.ts"
+  },
+  "scripts": {
+    "test": "node --disable-warning=ExperimentalWarning --test \"src/**/*.test.ts\""
+  }
+}

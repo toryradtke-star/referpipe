@@ -1,0 +1,61 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-10-05T21:42:49Z",
+    "timestamp_areas_base": "2026-10-04T19:59:06Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 3291925964,
+  "lat": 45.8481192,
+  "lon": -95.3859878,
+  "tags": {
+    "addr:city": "Alexandria",
+    "addr:housenumber": "4617 #102",
+    "addr:postcode": "56308",
+    "addr:street": "South State Highway 29",
+    "brand": "Great Clips",
+    "brand:wikidata": "Q5598967",
+    "name": "Great Clips",
+    "phone": "+1-320-763-4076",
+    "shop": "hairdresser",
+    "website": "https://www.greatclips.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 6148605350,
+  "lat": 45.8617360,
+  "lon": -95.3802924,
+  "tags": {
+    "addr:city": "Alexandria",
+    "addr:housenumber": "3015",
+    "addr:postcode": "56308",
+    "addr:state": "MN",
+    "addr:street": "State Highway 29",
+    "addr:unit": "4176",
+    "amenity": "dentist",
+    "healthcare": "dentist",
+    "healthcare:speciality": "general;cosmetic_dentistry;implantology",
+    "name": "Gentle Dentistry",
+    "opening_hours": "Mo-Th 07:00-17:00; Fr 07:00-16:00",
+    "phone": "+1-320-763-5052"
+  }
+},
+{
+  "type": "node",
+  "id": 6148821527,
+  "lat": 45.8861004,
+  "lon": -95.3762195,
+  "tags": {
+    "name": "Down On The Corner Family Hair Care",
+    "shop": "hairdresser"
+  }
+}
+
+  ]
+}
